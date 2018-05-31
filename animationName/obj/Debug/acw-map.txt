@@ -1,0 +1,4 @@
+animationName.MainActivity, animationName;md570d6a8d36ae233a82702b51bfb6b2b8d.MainActivity
+animationName.MainActivity, animationName, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md570d6a8d36ae233a82702b51bfb6b2b8d.MainActivity
+animationName.MainActivity;md570d6a8d36ae233a82702b51bfb6b2b8d.MainActivity
+animationname.MainActivity;md570d6a8d36ae233a82702b51bfb6b2b8d.MainActivity
