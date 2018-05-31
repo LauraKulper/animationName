@@ -17,8 +17,15 @@ C:\Users\admin\Documents\GitHub\animationName\animationName\obj\Debug\R.cs.flag
 C:\Users\admin\Documents\GitHub\animationName\animationName\obj\Debug\uploadflags.txt
 C:\Users\admin\Documents\GitHub\animationName\animationName\bin\Debug\animationName.dll.mdb
 C:\Users\admin\Documents\GitHub\animationName\animationName\obj\Debug\android\assets\animationName.dll.mdb
-C:\Users\admin\Documents\GitHub\animationName\animationName\bin\Debug\animationName.dll
+C:\Users\admin\Documents\GitHub\animationName\animationName\bin\Debug\Microsoft.AppCenter.Analytics.Android.Bindings.dll
+C:\Users\admin\Documents\GitHub\animationName\animationName\bin\Debug\Microsoft.AppCenter.Analytics.dll
+C:\Users\admin\Documents\GitHub\animationName\animationName\bin\Debug\Microsoft.AppCenter.Android.Bindings.dll
+C:\Users\admin\Documents\GitHub\animationName\animationName\bin\Debug\Microsoft.AppCenter.Crashes.Android.Bindings.dll
+C:\Users\admin\Documents\GitHub\animationName\animationName\bin\Debug\Microsoft.AppCenter.Crashes.dll
+C:\Users\admin\Documents\GitHub\animationName\animationName\bin\Debug\Microsoft.AppCenter.dll
+C:\Users\admin\Documents\GitHub\animationName\animationName\obj\Debug\animationName.csprojResolveAssemblyReference.cache
 bin\Debug\Mono.Android.pdb
+C:\Users\admin\Documents\GitHub\animationName\animationName\bin\Debug\animationName.dll
 bin\Debug\mscorlib.pdb
 bin\Debug\System.Core.pdb
 bin\Debug\System.pdb
