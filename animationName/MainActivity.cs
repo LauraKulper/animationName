@@ -2,6 +2,9 @@
 using Android.Widget;
 using Android.OS;
 using Android.Graphics.Drawables;
+using Microsoft.AppCenter;
+using Microsoft.AppCenter.Analytics;
+using Microsoft.AppCenter.Crashes;
 
 namespace animationName
 {
@@ -12,6 +15,8 @@ namespace animationName
         {
             base.OnCreate(bundle);
             SetContentView(Resource.Layout.Main);
+            AppCenter.Start("bf13c198-9a20-4140-955b-52ebf2ceb707",
+                   typeof(Analytics), typeof(Crashes));
         }
 
         public override void OnWindowFocusChanged(bool hasFocus)
