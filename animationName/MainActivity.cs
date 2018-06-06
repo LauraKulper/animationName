@@ -14,12 +14,12 @@ namespace animationName
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
-            SetContentView(Resource.Layout.Main);
+           /* SetContentView(Resource.Layout.Main);
             AppCenter.Start("bf13c198-9a20-4140-955b-52ebf2ceb707",
-                   typeof(Analytics), typeof(Crashes));
+                   typeof(Analytics), typeof(Crashes));*/
         }
 
-        public override void OnWindowFocusChanged(bool hasFocus)
+        /*public override void OnWindowFocusChanged(bool hasFocus)
         {
             if (hasFocus)
             {
@@ -27,7 +27,7 @@ namespace animationName
                 AnimationDrawable animation = (AnimationDrawable)imageView.Drawable;
                 animation.Start();
             }
-        }
+        }*/
     }
 }
 
